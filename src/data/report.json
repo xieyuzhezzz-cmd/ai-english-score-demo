@@ -1,0 +1,18 @@
+{
+  "studentName": "张同学",
+  "trainingHours": 28,
+  "weeklyHours": 8,
+  "newWords": 180,
+  "completionRate": 94,
+  "vocabulary": {
+    "before": 1250,
+    "after": 1900
+  },
+  "accuracy": {
+    "before": 65,
+    "after": 92
+  },
+  "weakness": "长单词拼写",
+  "nextStage": "阅读能力训练",
+  "aiAdvice": "继续加强阅读训练。"
+}
