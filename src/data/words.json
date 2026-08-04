@@ -1,0 +1,26 @@
+[
+  {
+    "word": "environment",
+    "phonetic": "/ɪnˈvaɪrənmənt/",
+    "meaning": "环境",
+    "roots": [
+      {
+        "part": "environ",
+        "meaning": "周围"
+      },
+      {
+        "part": "ment",
+        "meaning": "名词后缀"
+      }
+    ],
+    "memory": "想象自己站在森林中，四周的空气、植物组成环境。",
+    "example": "We should protect the environment.",
+    "mastery": 92,
+    "scores": {
+      "recognition": 95,
+      "pronunciation": 88,
+      "spelling": 92,
+      "application": 90
+    }
+  }
+]
